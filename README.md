@@ -1,7 +1,7 @@
 - 👋 Hi there I’m Ahmed
 - 👀 I’m interested in front end
-- 🌱 I’m currently learning **more from frameworks**
-- 💬 Ask me about **html,css,javascript,angular,vue js,react**
+- 🌱 I’m currently learning **more codes**
+- 💬 Ask me about **html,css,javascript,react**
 - 📫 How to reach me **v20asayed173@gmail.com**
 <!---
 Ahmedkhaled001/Ahmedkhaled001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
